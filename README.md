@@ -1,2 +1,3 @@
-# LinearRegressionProject
-This is my Linear Regression Project
+# Forest Fire Weather Index Prediction
+This is for the practice purpose.
+
