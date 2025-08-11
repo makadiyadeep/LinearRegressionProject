@@ -1,0 +1,7 @@
+scikit-learn
+numpy
+pandas
+seaborn
+flask
+memory_profiler
+ipykernel
